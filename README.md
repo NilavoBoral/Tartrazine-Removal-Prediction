@@ -1,5 +1,5 @@
 # Tartrazine-Removal-Prediction
 
-Data : Tartazine_Removal_Final.xlsx
+Data : Tartazine_Removal_Final.xlsx /n
 Code : Tartazine_Removal.ipynb
 Models : Nilavo_ML.pkl, Nilavo_DL.pkl
